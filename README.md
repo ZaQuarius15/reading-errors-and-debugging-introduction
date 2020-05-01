@@ -94,11 +94,11 @@ only see the output of our code as it runs.
 Sometimes, it is helpful to use a tool referred to as a "stop the world"
 debugger. These debugger tools will stop the execution of code in a program and
 let us step into it and interact. Very similar to IRB, while the program is
-stopeed, we get access to variables and methods and can use them. After we quit
+stopped, we get access to variables and methods and can use them. After we quit
 the debugger, the program will continue execution.
 
 Ruby's main "stop the world" debuggers are called Pry and Byebug. We'll be
-exploring Pry a few lessons.
+exploring Pry in a few lessons.
 
 ## Reading Errors
 
